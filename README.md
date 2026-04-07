@@ -7,7 +7,6 @@ This project analyzes loan portfolio risk using credit score segmentation, defau
 - Power BI
 - SQL
 - Excel
-- Python (optional)
 
 ## Key Insights
 - Higher default rates in low credit score bands
@@ -15,12 +14,14 @@ This project analyzes loan portfolio risk using credit score segmentation, defau
 - Portfolio risk distribution visualized using dashboards
 
 ## Files Included
-- Power BI Dashboard (.pbix)
-- Dataset
+- Power BI Dashboard
+- Dataset (from Excel)
 - SQL Queries
 - Screenshots
 
 ## Dashboard Preview
+This dashboard provides insights into credit score analysis,trend and distribution.
+[Loan Analysis](Loan Analysis.png)
 
 
 ## Learnings
