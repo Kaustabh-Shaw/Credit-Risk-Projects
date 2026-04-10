@@ -25,7 +25,8 @@ The model helps estimate Expected Loss (EL) and supports better decision-making 
 - Handled missing values and inconsistencies
 - Created derived fields like income bands and credit score segments
 
- 2. Risk Modelling Approach
+
+2. Risk Modelling Approach
 
 The core formula used:
 
@@ -41,16 +42,16 @@ Expected Loss (EL) = PD × LGD × EAD
 
 Developed an interactive dashboard to visualize:
 
-Expected Loss distribution
-Exposure trends over time
-Risk segmentation across customers
+- Expected Loss distribution
+- Exposure trends over time
+- Risk segmentation across customers
 
 
 ## Tools & Technologies
 
-Excel = Data cleaning & preparation
-SQL = Data extraction and transformation
-Power BI = Dashboard & visualization
+- Excel = Data cleaning & preparation
+- SQL = Data extraction and transformation
+- Power BI = Dashboard & visualization
 
 
 ## Dashboard Features
