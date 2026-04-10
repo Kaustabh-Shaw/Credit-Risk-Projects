@@ -62,6 +62,8 @@ Developed an interactive dashboard to visualize:
 - Income-based loss distribution
 - Loan status breakdown
 
+![Credit Risk Modelling](./
+
 ## Future Improvements
 
 - Implement machine learning models for PD prediction
